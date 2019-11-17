@@ -7,3 +7,8 @@ ansible-playbook -i "localhost," -c local playbooks/site.yml
 ```bash
 https://leucos.github.io/ansible-files-layout
 ```
+
+### official REDHAT c2s repo
+```bash
+https://github.com/RedHatOfficial/ansible-role-rhel7-c2s
+```

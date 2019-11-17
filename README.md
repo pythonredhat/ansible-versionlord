@@ -2,3 +2,8 @@
 ```bash
 ansible-playbook -i "localhost," -c local site.yml
 ```
+
+### config ansible directory layout with ansible.cfg to look for roles in certain directory when running playbooks
+```bash
+https://leucos.github.io/ansible-files-layout
+```
